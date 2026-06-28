@@ -6,6 +6,8 @@ I have experience programming a wide variety of programs, but I have the most ex
 
 Besides my experience programming I also manage servers. I'm especially skilled in staff management, bot configuration, and staff document creation. I have experience with a wide range of bots including Dyno, Melonly and Circle.
 
+Check out my portfolio at [wqffles.com](https://wqffles.com/) :p
+
 ## Featured Projects
 
 Currently I'm mostly working on [Ember](https://github.com/Wqffles-com/ember-erlc), a future platform for ER:LC communities to manage their community easily. It will allow easy promotions, infractions, a staff database, and much more.
